@@ -1,4 +1,3 @@
-# Friday-Project-10
 # Advanced Sentiment Analysis
 
 ## Overview
